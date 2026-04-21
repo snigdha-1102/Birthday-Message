@@ -15,8 +15,9 @@ An interactive web app that generates fun and personalized birthday messages bas
 * JavaScript (Vanilla JS)
 * Bootstrap 5
 ## 📸 Preview
+<img width="1857" height="734" alt="Screenshot 2026-04-21 140349" src="https://github.com/user-attachments/assets/f8046e5b-1107-4288-8e9e-0c079045a23a" />
 
-(Add screenshot here)
+
 
 
 ## 🧠 How It Works
