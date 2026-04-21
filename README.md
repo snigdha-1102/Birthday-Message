@@ -31,8 +31,7 @@ An interactive web app that generates fun and personalized birthday messages bas
    * Displays a message
    * Shows confetti animation
 #live Demo
-
-
+https://snigdha-1102.github.io/Birthday-Message/
 
 ## 💡 Future Enhancements
 
