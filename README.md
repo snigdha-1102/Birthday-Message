@@ -18,8 +18,6 @@ An interactive web app that generates fun and personalized birthday messages bas
 <img width="1857" height="734" alt="Screenshot 2026-04-21 140349" src="https://github.com/user-attachments/assets/f8046e5b-1107-4288-8e9e-0c079045a23a" />
 
 
-
-
 ## 🧠 How It Works
 
 1. User selects a birthday date
@@ -30,6 +28,7 @@ An interactive web app that generates fun and personalized birthday messages bas
    * Calculates days remaining
    * Displays a message
    * Shows confetti animation
+  
 #live Demo
 https://snigdha-1102.github.io/Birthday-Message/
 
